@@ -40,3 +40,8 @@ git checkout main
 git stage .
 git commit -m "second commit"
 git checkout main
+git checkout main
+git branch -M main
+git branch
+git checkout -b mario-solution
+git add .
