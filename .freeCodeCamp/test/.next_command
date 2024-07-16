@@ -32,3 +32,9 @@ git branch -M main
 git push -u origin main
 git checkout -b session/session01
 git add .
+git commit -m "initial CodeRoad project start"
+git push --set-upstream origin session/session01
+git branch
+git checkout master
+git checkout main
+git stage .
