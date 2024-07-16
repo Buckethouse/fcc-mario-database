@@ -38,3 +38,5 @@ git branch
 git checkout master
 git checkout main
 git stage .
+git commit -m "second commit"
+git checkout main
